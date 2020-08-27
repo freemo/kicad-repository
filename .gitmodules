@@ -1,0 +1,9 @@
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "kicad-freemo"]
+	path = kicad-freemo
+	url = http://git.qoto.org/freemo/kicad-freemo.git
+[submodule "arduino-kicad-library"]
+	path = arduino-kicad-library
+	url = https://github.com/Alarm-Siren/arduino-kicad-library.git
